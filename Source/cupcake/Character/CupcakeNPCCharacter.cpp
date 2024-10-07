@@ -2,6 +2,14 @@
 
 
 #include "CupcakeNPCCharacter.h"
+#include "../Gameplay/AI/CupcakeAIStatics.h"
+#include "Components/CapsuleComponent.h"
+#include "../Controller/AI/CupcakeAINPCController.h"
+#include "Perception/AIPerceptionTypes.h"
+#include "Perception/AIPerceptionComponent.h"
+//
+#include "Perception/AIPerceptionSystem.h"
+#include "Perception/AISense_Touch.h"
 
 // Sets default values
 ACupcakeNPCCharacter::ACupcakeNPCCharacter()
@@ -16,19 +24,24 @@ void ACupcakeNPCCharacter::BeginPlay()
 {
 	Super::BeginPlay();
 
-	USkeletalMeshComponent* NPCMesh = GetMesh();
-	if (NPCMesh)
-	{
-		NPCMesh->OnComponentHit.AddDynamic(this, &ACupcakeNPCCharacter::OnHit);
-	}
+	GetCapsuleComponent()->OnComponentHit.AddDynamic(this, &ACupcakeNPCCharacter::OnHit);
 	
 }
 
 void ACupcakeNPCCharacter::OnHit(UPrimitiveComponent* HitComponent, AActor* OtherActor, UPrimitiveComponent* OtherComp, FVector NormalImpulse, const FHitResult& Hit)
 {
-	UE_LOG(LogTemp, Warning, TEXT("OnHitCalled!"));
+	//UCupcakeAIStatics::ReportTouchEvent(this, OtherActor, Hit.ImpactPoint);
 
-	
+	FAITouchEvent TouchEvent(this, OtherActor, Hit.ImpactPoint);
+	UAISense_Touch* TouchSense = NewObject<UAISense_Touch>(this, TEXT("TouchSense"));
+
+	ACupcakeAINPCController* AIController = Cast<ACupcakeAINPCController>(this->GetController());
+	if (AIController)
+	{
+		FAIStimulus TouchStimulus(*TouchSense, 1.f, Hit.ImpactPoint, this->GetActorLocation());
+		UAIPerceptionComponent* AIPerceptionComponent = AIController->GetAIPerceptionComponent();
+		AIPerceptionComponent->OnTargetPerceptionUpdated.Broadcast(OtherActor, TouchStimulus);
+	}
 }
 
 // Called every frame
