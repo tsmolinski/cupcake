@@ -4,6 +4,9 @@
 # IntelliJ Rider files
 .idea/
 
+# .idea folder (?)
+.idea/*
+
 # Compiled Object files
 *.slo
 *.lo
