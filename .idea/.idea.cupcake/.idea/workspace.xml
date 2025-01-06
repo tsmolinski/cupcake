@@ -12,34 +12,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fb9e19a1-bf9b-4eae-bd2f-b4239b42f301" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.cupcake/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.cupcake/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/AI/BT_FindCover.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/AI/BT_FindCover.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/AI/BT_NPC.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/AI/BT_NPC.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/AI/BT_SitDown.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/AI/BT_SitDown.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/AI/Blueprints/BP_AIBehavior_AC.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/AI/Blueprints/BP_NavAreaMinorObstacle.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/AI/Blueprints/BP_PatrolPathPoint.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/AI/Controller/AIC_NPC.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/AI/Controller/AIC_NPC.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/AI/EQS/BP_EQSTester.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/AI/EQS/EQS_Demo.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/AI/EQS/EQS_FindAttack.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/AI/EQS/EQS_FindCover.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/AI/EQS/EQS_Player_Context.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/AI/SmartObjects/BP_TestBehavior.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/AI/SmartObjects/BP_TestBehavior.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/AI/Tasks/BTTask_Attack.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/AI/Tasks/BTTask_ClearBlackboardValue.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/AI/Tasks/BTTask_EnterCover.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/AI/Tasks/BTTask_FindSmartObject.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/AI/Tasks/BTTask_MoveRandomLocation.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/AI/Tasks/BTTask_Patrol.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/AI/Tasks/BTTask_Uncover.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/AI/Tasks/BTTask_UseSmartObject.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Character/AI/BP_NPCCharacter.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Character/AI/BP_NPCCharacter.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Maps/ThirdPersonExampleMap.umap" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Maps/ThirdPersonExampleMap.umap" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/StarterContent/Architecture/Floor_400x400.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/StarterContent/Architecture/Floor_400x400.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset" afterDir="false" />
-    </list>
+    <list default="true" id="fb9e19a1-bf9b-4eae-bd2f-b4239b42f301" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -185,7 +158,7 @@
       <workItem from="1734694366507" duration="727000" />
       <workItem from="1735562410722" duration="2462000" />
       <workItem from="1735990148246" duration="2138000" />
-      <workItem from="1736079349326" duration="1896000" />
+      <workItem from="1736079349326" duration="2044000" />
     </task>
     <servers />
   </component>
