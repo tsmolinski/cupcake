@@ -13,12 +13,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fb9e19a1-bf9b-4eae-bd2f-b4239b42f301" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/Content/AI/BB_EnemyBase.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/AI/BB_EnemyBase.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/AI/BT_EnemyBase.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/AI/BT_EnemyBase.uasset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Content/AI/Controller/AIC_EnemyBase.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/AI/Controller/AIC_EnemyBase.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/AnimStarterPack/Fire_Rifle_Ironsights.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/AnimStarterPack/Fire_Rifle_Ironsights.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/AnimStarterPack/Reload_Rifle_Ironsights_Montage.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Character/AI/BP_EnemyBaseCharacter.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Character/AI/BP_EnemyBaseCharacter.uasset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Content/Character/ThirdPersonCharacter.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Character/ThirdPersonCharacter.uasset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Content/Maps/ThirdPersonExampleMap.umap" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Maps/ThirdPersonExampleMap.umap" afterDir="false" />
     </list>
@@ -169,6 +164,7 @@
       <workItem from="1735990148246" duration="2138000" />
       <workItem from="1736079349326" duration="2044000" />
       <workItem from="1736166535785" duration="703000" />
+      <workItem from="1736244438919" duration="725000" />
     </task>
     <servers />
   </component>
