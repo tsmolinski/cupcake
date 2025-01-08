@@ -13,9 +13,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fb9e19a1-bf9b-4eae-bd2f-b4239b42f301" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/Content/AI/Controller/AIC_EnemyBase.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/AI/Controller/AIC_EnemyBase.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Character/ThirdPersonCharacter.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Character/ThirdPersonCharacter.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Maps/ThirdPersonExampleMap.umap" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Maps/ThirdPersonExampleMap.umap" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.cupcake/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.cupcake/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -164,7 +162,8 @@
       <workItem from="1735990148246" duration="2138000" />
       <workItem from="1736079349326" duration="2044000" />
       <workItem from="1736166535785" duration="703000" />
-      <workItem from="1736244438919" duration="725000" />
+      <workItem from="1736244438919" duration="1327000" />
+      <workItem from="1736330556672" duration="598000" />
     </task>
     <servers />
   </component>
