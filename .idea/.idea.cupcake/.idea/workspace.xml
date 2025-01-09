@@ -14,7 +14,6 @@
   <component name="ChangeListManager">
     <list default="true" id="fb9e19a1-bf9b-4eae-bd2f-b4239b42f301" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/Content/AI/BT_EnemyBase.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/AI/BT_EnemyBase.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/AI/EQS/EQS_AttackTargetContext.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/AI/EQS/EQS_AttackTargetContext.uasset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Content/Maps/ThirdPersonExampleMap.umap" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Maps/ThirdPersonExampleMap.umap" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -166,6 +165,7 @@
       <workItem from="1736166535785" duration="703000" />
       <workItem from="1736244438919" duration="1327000" />
       <workItem from="1736330556672" duration="1207000" />
+      <workItem from="1736415581677" duration="786000" />
     </task>
     <servers />
   </component>
