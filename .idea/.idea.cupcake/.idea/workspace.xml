@@ -13,34 +13,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fb9e19a1-bf9b-4eae-bd2f-b4239b42f301" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.cupcake/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.cupcake/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/AI/BB_EnemyBase.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/AI/BB_NPC.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/AI/BB_SitDown.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/AI/BT_EnemyBase.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/AI/BT_FindCover.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/AI/BT_NPC.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/AI/BT_SitDown.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/AI/Blueprints/NPC/BP_AIBehavior_AC.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/AI/Blueprints/NPC/BP_AIBehavior_AC.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/AI/Blueprints/NPC/BP_PatrolPathPoint.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/AI/Blueprints/NPC/BP_PatrolPathPoint.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/AI/Controller/AIC_EnemyBase.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/AI/Controller/AIC_EnemyBase.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/AI/Controller/AIC_NPC.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/AI/Controller/AIC_NPC.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/AI/Decorators/BTDecorator_WieldingKnife.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/AI/Decorators/BTDecorator_WieldingKnife.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/AI/EPatrolPathOutcome.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/AI/M_PatrolPathPoint_Debug.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/AI/Tasks/BTTask_SheathKnife.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/AI/Tasks/BTTask_WieldKnife.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/AI/Tasks/NPC/BTTask_Patrol.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/AI/Tasks/NPC/BTTask_Patrol.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/AnimStarterPack/Fire_Rifle_Ironsights.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/AnimStarterPack/Showcase.umap" beforeDir="false" afterPath="$PROJECT_DIR$/Content/AnimStarterPack/Showcase.umap" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Blueprints/AI/BPI_EnemyAI.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Blueprints/AI/BPI_EnemyAI.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Character/AI/BP_EnemyBaseCharacter.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Character/AI/BP_EnemyBaseCharacter.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/AI/BehaviorTrees/BT_EnemyRanged.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/AI/BehaviorTrees/BT_EnemyRanged.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/AI/EQS/EQS_AttackTargetContext.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/AI/EQS/EQS_AttackTargetContext.uasset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Content/Character/AI/BP_EnemyRangedCharacter.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Character/AI/BP_EnemyRangedCharacter.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Mannequin/Materials/MI_Male_Body_Ranged.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Mannequin/Materials/MI_Male_Body_Ranged.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Mannequin/Mesh/SK_Mannequin.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Mannequin/Mesh/SK_Mannequin.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Mannequin/Mesh/UE4_Mannequin_Skeleton.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Mannequin/Mesh/UE4_Mannequin_Skeleton.uasset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Content/Maps/ThirdPersonExampleMap.umap" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Maps/ThirdPersonExampleMap.umap" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/StarterContent/Architecture/Floor_400x400.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/StarterContent/Architecture/Floor_400x400.uasset" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -193,7 +169,7 @@
       <workItem from="1736330556672" duration="1207000" />
       <workItem from="1736415581677" duration="1754000" />
       <workItem from="1736421924569" duration="1979000" />
-      <workItem from="1736502917928" duration="1270000" />
+      <workItem from="1736502917928" duration="1866000" />
     </task>
     <servers />
   </component>
