@@ -12,12 +12,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fb9e19a1-bf9b-4eae-bd2f-b4239b42f301" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/Content/AI/BehaviorTrees/BT_EnemyRanged.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/AI/BehaviorTrees/BT_EnemyRanged.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/AI/EQS/EQS_AttackTargetContext.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/AI/EQS/EQS_AttackTargetContext.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Character/AI/BP_EnemyRangedCharacter.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Character/AI/BP_EnemyRangedCharacter.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Maps/ThirdPersonExampleMap.umap" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Maps/ThirdPersonExampleMap.umap" afterDir="false" />
-    </list>
+    <list default="true" id="fb9e19a1-bf9b-4eae-bd2f-b4239b42f301" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -169,7 +164,7 @@
       <workItem from="1736330556672" duration="1207000" />
       <workItem from="1736415581677" duration="1754000" />
       <workItem from="1736421924569" duration="1979000" />
-      <workItem from="1736502917928" duration="1866000" />
+      <workItem from="1736502917928" duration="2469000" />
     </task>
     <servers />
   </component>
