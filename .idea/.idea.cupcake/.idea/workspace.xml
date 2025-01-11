@@ -12,7 +12,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fb9e19a1-bf9b-4eae-bd2f-b4239b42f301" name="Changes" comment="" />
+    <list default="true" id="fb9e19a1-bf9b-4eae-bd2f-b4239b42f301" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.cupcake/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.cupcake/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Character/AI/BP_EnemyBaseCharacter.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Character/AI/BP_EnemyBaseCharacter.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Character/AI/BP_EnemyRangedCharacter.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Character/AI/BP_EnemyRangedCharacter.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Character/ThirdPersonCharacter.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Character/ThirdPersonCharacter.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Gameplay/AI/Decorators/BTDecorator_IsHealthBelowThreshold.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Gameplay/AI/Decorators/BTDecorator_IsHealthBelowThreshold.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Gameplay/AI/Tasks/BTTask_Heal.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Gameplay/AI/Tasks/BTTask_Heal.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Gameplay/Interfaces/AI/BPI_EnemyAI.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Gameplay/Interfaces/AI/BPI_EnemyAI.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Gameplay/Interfaces/BPI_Damagable.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Gameplay/Interfaces/BPI_Damagable.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Maps/ThirdPersonExampleMap.umap" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Maps/ThirdPersonExampleMap.umap" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/StarterContent/Architecture/Floor_400x400.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/StarterContent/Architecture/Floor_400x400.uasset" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -164,7 +175,8 @@
       <workItem from="1736330556672" duration="1207000" />
       <workItem from="1736415581677" duration="1754000" />
       <workItem from="1736421924569" duration="1979000" />
-      <workItem from="1736502917928" duration="2469000" />
+      <workItem from="1736502917928" duration="3064000" />
+      <workItem from="1736590952574" duration="1358000" />
     </task>
     <servers />
   </component>
