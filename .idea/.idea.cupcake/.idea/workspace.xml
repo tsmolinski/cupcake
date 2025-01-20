@@ -13,22 +13,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fb9e19a1-bf9b-4eae-bd2f-b4239b42f301" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Content/Gameplay/AI/Decorators/BTDecorator_IsTargetAttacking.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Gameplay/AI/Enums/E_BlockingState.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Gameplay/AI/Tasks/BTTask_MeleeBlock.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Mannequin/Animations/AM_BlockReaction_2Hands.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Mannequin/Animations/AM_Block_2Hands.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Mannequin/Animations/A_BlockReaction_2Hands.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Mannequin/Animations/A_Block_2Hands.uasset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.cupcake/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.cupcake/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Character/AI/BP_EnemyBaseCharacter.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Character/AI/BP_EnemyBaseCharacter.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Character/AI/BP_EnemyMeleeCharacter.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Character/AI/BP_EnemyMeleeCharacter.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Character/AI/BP_EnemyRangedCharacter.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Character/AI/BP_EnemyRangedCharacter.uasset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Content/Character/BP_CupcakePlayerCharacter.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Character/BP_CupcakePlayerCharacter.uasset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Content/Gameplay/AI/BehaviorTrees/BT_EnemyMelee.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Gameplay/AI/BehaviorTrees/BT_EnemyMelee.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Gameplay/Interfaces/BPI_Damagable.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Gameplay/Interfaces/BPI_Damagable.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Gameplay/Projectiles/BP_ProjectileTest.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Gameplay/Projectiles/BP_ProjectileTest.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Mannequin/Mesh/UE4_Mannequin_Skeleton.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Mannequin/Mesh/UE4_Mannequin_Skeleton.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Gameplay/AI/Decorators/BTDecorator_IsTargetAttacking.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Gameplay/AI/Decorators/BTDecorator_IsTargetAttacking.uasset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Content/Maps/ThirdPersonExampleMap.umap" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Maps/ThirdPersonExampleMap.umap" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Content/StarterContent/Architecture/Floor_400x400.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/StarterContent/Architecture/Floor_400x400.uasset" afterDir="false" />
     </list>
@@ -190,6 +178,8 @@
       <workItem from="1736590952574" duration="2575000" />
       <workItem from="1736686260727" duration="778000" />
       <workItem from="1736761768556" duration="2530000" />
+      <workItem from="1736847302999" duration="782000" />
+      <workItem from="1737369112702" duration="2443000" />
     </task>
     <servers />
   </component>
