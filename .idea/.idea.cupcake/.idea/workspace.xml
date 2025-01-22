@@ -14,7 +14,6 @@
   <component name="ChangeListManager">
     <list default="true" id="fb9e19a1-bf9b-4eae-bd2f-b4239b42f301" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.cupcake/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.cupcake/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cupcake.sln.DotSettings.user" beforeDir="false" afterPath="$PROJECT_DIR$/cupcake.sln.DotSettings.user" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -177,7 +176,8 @@
       <workItem from="1736761768556" duration="2530000" />
       <workItem from="1736847302999" duration="782000" />
       <workItem from="1737369112702" duration="3511000" />
-      <workItem from="1737452626185" duration="603000" />
+      <workItem from="1737452626185" duration="1315000" />
+      <workItem from="1737541859827" duration="1205000" />
     </task>
     <servers />
   </component>
