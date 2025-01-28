@@ -13,8 +13,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fb9e19a1-bf9b-4eae-bd2f-b4239b42f301" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Content/Gameplay/AI/EQS/EQS_Seeking.uasset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.cupcake/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.cupcake/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Character/BP_CupcakePlayerCharacter.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Character/BP_CupcakePlayerCharacter.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Gameplay/AI/BehaviorTrees/BT_EnemyMelee.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Gameplay/AI/BehaviorTrees/BT_EnemyMelee.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Gameplay/AI/BehaviorTrees/Subtrees/BT_SeekingSubTree.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Gameplay/AI/BehaviorTrees/Subtrees/BT_SeekingSubTree.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Gameplay/AI/Controller/AIC_EnemyBase.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Gameplay/AI/Controller/AIC_EnemyBase.uasset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Content/Maps/ThirdPersonExampleMap.umap" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Maps/ThirdPersonExampleMap.umap" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/StarterContent/Architecture/Floor_400x400.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/StarterContent/Architecture/Floor_400x400.uasset" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -180,7 +186,9 @@
       <workItem from="1737452626185" duration="1315000" />
       <workItem from="1737541859827" duration="2499000" />
       <workItem from="1737628976015" duration="1547000" />
-      <workItem from="1737714771694" duration="346000" />
+      <workItem from="1737714771694" duration="947000" />
+      <workItem from="1737974612934" duration="1804000" />
+      <workItem from="1738067502828" duration="601000" />
     </task>
     <servers />
   </component>
