@@ -12,10 +12,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fb9e19a1-bf9b-4eae-bd2f-b4239b42f301" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/Content/Character/AI/BP_EnemyMeleeCharacter.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Character/AI/BP_EnemyMeleeCharacter.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Gameplay/Interfaces/AI/BPI_EnemyAI.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Gameplay/Interfaces/AI/BPI_EnemyAI.uasset" afterDir="false" />
-    </list>
+    <list default="true" id="fb9e19a1-bf9b-4eae-bd2f-b4239b42f301" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -188,7 +185,7 @@
       <workItem from="1737974612934" duration="1804000" />
       <workItem from="1738067502828" duration="1202000" />
       <workItem from="1738146936955" duration="2152000" />
-      <workItem from="1738232299183" duration="1751000" />
+      <workItem from="1738232299183" duration="2356000" />
     </task>
     <servers />
   </component>
