@@ -12,10 +12,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fb9e19a1-bf9b-4eae-bd2f-b4239b42f301" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.cupcake/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.cupcake/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cupcake.sln.DotSettings.user" beforeDir="false" afterPath="$PROJECT_DIR$/cupcake.sln.DotSettings.user" afterDir="false" />
-    </list>
+    <list default="true" id="fb9e19a1-bf9b-4eae-bd2f-b4239b42f301" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -196,7 +193,7 @@
       <workItem from="1738232299183" duration="2356000" />
       <workItem from="1738319870668" duration="833000" />
       <workItem from="1738578208545" duration="1866000" />
-      <workItem from="1738663306049" duration="598000" />
+      <workItem from="1738663306049" duration="1195000" />
     </task>
     <servers />
   </component>
