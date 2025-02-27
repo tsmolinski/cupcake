@@ -13,7 +13,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fb9e19a1-bf9b-4eae-bd2f-b4239b42f301" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Content/Mannequin/Animations/A_SwordSheath.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/Mannequin/Animations/A_SwordSlash.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/Mannequin/Animations/A_SwordWithdraw.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/Mannequin/Animations/A_Walk_Lt_SwordStrafe.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/Mannequin/Animations/A_Walk_Rt_SwordStrafe.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/Mixamo/Beta_HighLimbsGeoSG3.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/Mixamo/Beta_Joints_MAT1.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/Mixamo/Sheathing_Sword.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/Mixamo/Sword_And_Shield_Slash.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/Mixamo/Sword_And_Shield_Slash_Anim_Take_001.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/Mixamo/Sword_And_Shield_Slash_Anim_mixamo_com.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/Mixamo/Sword_And_Shield_Slash_PhysicsAsset.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/Mixamo/Sword_And_Shield_Slash_Skeleton.uasset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.cupcake/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.cupcake/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/StarterContent/Architecture/Floor_400x400.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/StarterContent/Architecture/Floor_400x400.uasset" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -202,7 +216,8 @@
       <workItem from="1739466567234" duration="695000" />
       <workItem from="1739534426888" duration="1522000" />
       <workItem from="1740475023617" duration="1546000" />
-      <workItem from="1740562852555" duration="629000" />
+      <workItem from="1740562852555" duration="1302000" />
+      <workItem from="1740649578952" duration="1231000" />
     </task>
     <servers />
   </component>
