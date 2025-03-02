@@ -13,15 +13,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fb9e19a1-bf9b-4eae-bd2f-b4239b42f301" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Content/Mannequin/Animations/AM_SwordSheath_Montage.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Mannequin/Animations/AM_SwordSlash_Montage.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Mannequin/Animations/AM_SwordWithdraw_Montage.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.cupcake/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.cupcake/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Character/AI/BP_EnemyMeleeCharacter.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Character/AI/BP_EnemyMeleeCharacter.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Mannequin/Animations/AM_Equip_Rifle_Standing.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Mannequin/Animations/AM_Equip_Rifle_Standing.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Maps/ThirdPersonExampleMap.umap" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Maps/ThirdPersonExampleMap.umap" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/StarterContent/Architecture/Floor_400x400.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/StarterContent/Architecture/Floor_400x400.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/Mannequin/Animations/BS_Walk_SwordStrafe.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Mannequin/Animations/ABP_CupcakePlayer.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Mannequin/Animations/ABP_CupcakePlayer.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Mannequin/Animations/ThirdPerson_AnimBP.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Mannequin/Animations/ThirdPerson_AnimBP.uasset" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -212,7 +206,7 @@
       <workItem from="1740475023617" duration="1546000" />
       <workItem from="1740562852555" duration="1302000" />
       <workItem from="1740649578952" duration="1829000" />
-      <workItem from="1740734994987" duration="1211000" />
+      <workItem from="1740734994987" duration="1808000" />
     </task>
     <servers />
   </component>
