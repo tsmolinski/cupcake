@@ -13,9 +13,45 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fb9e19a1-bf9b-4eae-bd2f-b4239b42f301" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Content/Mannequin/Animations/BS_Walk_SwordStrafe.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/Core/Character/AI/BP_EnemyMeleeCharacter.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/Core/Character/AI/BP_EnemyRangedCharacter.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/Entities/Mage/Animations/Fireball.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/Entities/Mage/Animations/Standing_2H_Magic_Area_Attack_02.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/Entities/Mage/Animations/Standing_Idle_Anim.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/Entities/Mage/Animations/Standing_Run_Back.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/Entities/Mage/Animations/Standing_Run_Forward.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/Entities/Mage/Animations/Standing_Run_Left.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/Entities/Mage/Animations/Standing_Run_Right.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/Entities/Mage/Animations/Standing_Walk_Back.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/Entities/Mage/Animations/Standing_Walk_Forward.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/Entities/Mage/Animations/Standing_Walk_Left.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/Entities/Mage/Animations/Standing_Walk_Right.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/Entities/Mage/Materials/kachujin_MAT.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/Entities/Mage/Materials/kachujin_MAT_.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/Entities/Mage/Mesh/Standing_Idle.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/Entities/Mage/Mesh/Standing_Idle_PhysicsAsset.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/Entities/Mage/Mesh/Standing_Idle_Skeleton.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/Entities/Mage/Textures/Kachujin_diffuse.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/Entities/Mage/Textures/Kachujin_diffuse_body.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/Entities/Mage/Textures/Kachujin_normal.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/Entities/Mage/Textures/Kachujin_specular.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.cupcake/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.cupcake/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Character/AI/BP_EnemyBaseCharacter.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Core/Character/AI/BP_EnemyBaseCharacter.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Character/AI/BP_EnemyMeleeCharacter.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Character/AI/BP_EnemyRangedCharacter.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Character/AI/BP_NPCCharacter.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Core/Character/AI/BP_NPCCharacter.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Character/BP_CupcakePlayerCharacter.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Core/Character/BP_CupcakePlayerCharacter.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/GameMode/ThirdPersonGameMode.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Core/GameMode/ThirdPersonGameMode.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Gameplay/AI/Controller/AIC_EnemyBase.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Gameplay/AI/Controller/AIC_EnemyBase.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Gameplay/AI/Decorators/BTDecorator_WieldingKnife.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Gameplay/AI/Decorators/BTDecorator_WieldingKnife.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Gameplay/AI/Tasks/BTTask_DefaultAttack.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Gameplay/AI/Tasks/BTTask_DefaultAttack.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Gameplay/AI/Tasks/BTTask_EquipWeapon.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Gameplay/AI/Tasks/BTTask_EquipWeapon.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Gameplay/AI/Tasks/BTTask_MeleeAttack.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Gameplay/AI/Tasks/BTTask_MeleeAttack.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Gameplay/AI/Tasks/BTTask_MeleeBlock.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Gameplay/AI/Tasks/BTTask_MeleeBlock.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Gameplay/AI/Tasks/BTTask_RangedAttack.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Gameplay/AI/Tasks/BTTask_RangedAttack.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Gameplay/AI/Tasks/BTTask_UnequipWeapon.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Gameplay/AI/Tasks/BTTask_UnequipWeapon.uasset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Content/Mannequin/Animations/ABP_CupcakePlayer.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Mannequin/Animations/ABP_CupcakePlayer.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Mannequin/Animations/ThirdPerson_AnimBP.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Mannequin/Animations/ThirdPerson_AnimBP.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Maps/ThirdPersonExampleMap.umap" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Maps/ThirdPersonExampleMap.umap" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -207,6 +243,7 @@
       <workItem from="1740562852555" duration="1302000" />
       <workItem from="1740649578952" duration="1829000" />
       <workItem from="1740734994987" duration="1808000" />
+      <workItem from="1740920772034" duration="1291000" />
     </task>
     <servers />
   </component>
