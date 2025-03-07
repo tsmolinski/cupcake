@@ -13,146 +13,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fb9e19a1-bf9b-4eae-bd2f-b4239b42f301" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/Content/FXVarietyPack/Materials/MI_ky_aura011_4x4.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/FXVarietyPack/Materials/MI_ky_aura011_4x4.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/FXVarietyPack/Materials/MI_ky_aura011_4x4_nonD.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/FXVarietyPack/Materials/MI_ky_aura011_4x4_nonD.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/FXVarietyPack/Materials/MI_ky_aura9.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/FXVarietyPack/Materials/MI_ky_auraWall02_two.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/FXVarietyPack/Materials/MI_ky_auraWall02_two.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/FXVarietyPack/Materials/MI_ky_chantDecoAc.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/FXVarietyPack/Materials/MI_ky_circle9_4x4c2.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/FXVarietyPack/Materials/MI_ky_circle9_4x4c2.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/FXVarietyPack/Materials/MI_ky_circleDust.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/FXVarietyPack/Materials/MI_ky_dynDust.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/FXVarietyPack/Materials/MI_ky_dynDust2.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/FXVarietyPack/Materials/MI_ky_flare25_4x4.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/FXVarietyPack/Materials/MI_ky_flareVertical03b_4x4.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/FXVarietyPack/Materials/MI_ky_flare_flash_trs.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/FXVarietyPack/Materials/MI_ky_lightning02_4x4.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/FXVarietyPack/Materials/MI_ky_lightningDust01_4x4_nonD.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/FXVarietyPack/Materials/MI_ky_polarC_two.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/FXVarietyPack/Materials/MI_ky_polarG_nonD.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/FXVarietyPack/Materials/MI_ky_polar_two.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/FXVarietyPack/Materials/MI_ky_primitive2b_trs.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/FXVarietyPack/Materials/MI_ky_primitive_dynB_nonD.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/FXVarietyPack/Materials/MI_ky_primitive_dynB_nonD.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/FXVarietyPack/Materials/MI_ky_primitive_dynB_two.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/FXVarietyPack/Materials/MI_ky_shine01B.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/FXVarietyPack/Materials/MI_ky_shine01R.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/FXVarietyPack/Materials/MI_ky_shine01R_nonD.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/FXVarietyPack/Materials/MI_ky_shockWave03g_4x4.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/FXVarietyPack/Materials/MI_ky_shockwave10R_4x4_nonD.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/FXVarietyPack/Materials/MI_ky_shockwave12_4x4.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/FXVarietyPack/Materials/MI_ky_smoke01.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/FXVarietyPack/Materials/MI_ky_smoke01b.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/FXVarietyPack/Materials/MI_ky_smoke01c.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/FXVarietyPack/Materials/MI_ky_starDust_dis.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/FXVarietyPack/Materials/MI_ky_starDust_dis.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/FXVarietyPack/Materials/MI_ky_starDust_sq.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/FXVarietyPack/Materials/MI_ky_storm01_aqua.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/FXVarietyPack/Materials/MI_ky_storm01_aqua_nonD.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/FXVarietyPack/Materials/MI_ky_storm01_dark.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/FXVarietyPack/Materials/MI_ky_storm01_dark_nonD.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/FXVarietyPack/Materials/MI_ky_storm01_fire.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/FXVarietyPack/Materials/MI_ky_storm01_fire_nonD1.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/FXVarietyPack/Materials/MI_ky_storm01_nonD.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/FXVarietyPack/Materials/MI_ky_storm01_thunder.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/FXVarietyPack/Materials/MI_ky_storm01_thunder_nonD.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/FXVarietyPack/Materials/MI_ky_stormDeco01_aqua.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/FXVarietyPack/Materials/MI_ky_stormDeco01_dark.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/FXVarietyPack/Materials/MI_ky_stormDeco01_fire.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/FXVarietyPack/Materials/MI_ky_turbulence_smoke2d_trs.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/FXVarietyPack/Materials/MI_ky_vortex04B_4x4_two.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/FXVarietyPack/Materials/M_ky_Fresnel.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/FXVarietyPack/Materials/M_ky_aura9.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/FXVarietyPack/Materials/M_ky_auraWall02.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/FXVarietyPack/Materials/M_ky_auraWall02.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/FXVarietyPack/Materials/M_ky_base.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/FXVarietyPack/Materials/M_ky_base_anime.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/FXVarietyPack/Materials/M_ky_base_anime.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/FXVarietyPack/Materials/M_ky_base_turbulence.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/FXVarietyPack/Materials/M_ky_chantDecoA.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/FXVarietyPack/Materials/M_ky_circle01_4x4G_nonD.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/FXVarietyPack/Materials/M_ky_dust01_4x4.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/FXVarietyPack/Materials/M_ky_dust01_4x4.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/FXVarietyPack/Materials/M_ky_dynDust.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/FXVarietyPack/Materials/M_ky_empty.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/FXVarietyPack/Materials/M_ky_empty.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/FXVarietyPack/Materials/M_ky_flare01_primitive.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/FXVarietyPack/Materials/M_ky_flarePillar.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/FXVarietyPack/Materials/M_ky_flareVert.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/FXVarietyPack/Materials/M_ky_flare_flash.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/FXVarietyPack/Materials/M_ky_laser01.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/FXVarietyPack/Materials/M_ky_magicCircle020.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/FXVarietyPack/Materials/M_ky_polar.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/FXVarietyPack/Materials/M_ky_polar_primitive.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/FXVarietyPack/Materials/M_ky_primitive.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/FXVarietyPack/Materials/M_ky_primitive_dyn2.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/FXVarietyPack/Materials/M_ky_primitive_dyn2.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/FXVarietyPack/Materials/M_ky_shockWave03_4x4.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/FXVarietyPack/Materials/M_ky_smoke01.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/FXVarietyPack/Materials/M_ky_starDust.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/FXVarietyPack/Materials/M_ky_starDust.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/FXVarietyPack/Materials/M_ky_stone02.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/FXVarietyPack/Materials/M_ky_storm01.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/FXVarietyPack/Materials/M_ky_stormDeco01.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/FXVarietyPack/Materials/M_ky_subUV01.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/FXVarietyPack/Materials/M_ky_subUV01.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/FXVarietyPack/Materials/M_ky_subUV03.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/FXVarietyPack/Materials/M_ky_subUV_dynRGB.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/FXVarietyPack/Materials/M_ky_thunderForBeam.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/FXVarietyPack/Materials/M_ky_trail_primitive.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/FXVarietyPack/Materials/M_ky_vortex04_4x4.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/FXVarietyPack/Materials/M_ky_waterDust02.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/FXVarietyPack/Materials/Mfunction/MF_ky_AddHilight.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/FXVarietyPack/Materials/Mfunction/MF_ky_MaskToTopUnder.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/FXVarietyPack/Materials/Mfunction/MF_ky_TexController.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/FXVarietyPack/Materials/Mfunction/MF_ky_TexController_primitive.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/FXVarietyPack/Materials/Mfunction/MF_ky_UVcontrol_4x4.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/FXVarietyPack/Materials/Mfunction/MF_ky_UVcontrol_4x4.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/FXVarietyPack/Materials/Mfunction/MF_ky_VectorToRadialValue.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/FXVarietyPack/Meshes/SM_ky_auraWall_distB_kai.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/FXVarietyPack/Meshes/SM_ky_auraWall_distB_kai.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/FXVarietyPack/Meshes/SM_ky_circleDist06.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/FXVarietyPack/Meshes/SM_ky_cylinderBend07.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/FXVarietyPack/Meshes/SM_ky_cylinder_lowPoly_dist.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/FXVarietyPack/Meshes/SM_ky_cylinder_lowPoly_dist.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/FXVarietyPack/Meshes/SM_ky_cylinder_superLow.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/FXVarietyPack/Meshes/SM_ky_cylinder_superLow.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/FXVarietyPack/Meshes/SM_ky_planeBend.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/FXVarietyPack/Meshes/SM_ky_quad_centerRot.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/FXVarietyPack/Meshes/SM_ky_quads.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/FXVarietyPack/Meshes/SM_ky_tornado07.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/FXVarietyPack/Meshes/SM_ky_windSmokeVertRot.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/FXVarietyPack/Particles/P_ky_healAura.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/FXVarietyPack/Textures/T_ky_aura011_4x4.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/FXVarietyPack/Textures/T_ky_aura011_4x4.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/FXVarietyPack/Textures/T_ky_auraWallWhite_4x4.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/FXVarietyPack/Textures/T_ky_auraWallWhite_4x4.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/FXVarietyPack/Textures/T_ky_bg.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/FXVarietyPack/Textures/T_ky_bg.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/FXVarietyPack/Textures/T_ky_bg_LC.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/FXVarietyPack/Textures/T_ky_chantDecoC.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/FXVarietyPack/Textures/T_ky_circle01_4x4.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/FXVarietyPack/Textures/T_ky_circle9_4x4.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/FXVarietyPack/Textures/T_ky_circle9_4x4.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/FXVarietyPack/Textures/T_ky_circleDust.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/FXVarietyPack/Textures/T_ky_decoLines.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/FXVarietyPack/Textures/T_ky_decoLinesB.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/FXVarietyPack/Textures/T_ky_deco_doom.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/FXVarietyPack/Textures/T_ky_deco_rainbow.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/FXVarietyPack/Textures/T_ky_dist_noise.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/FXVarietyPack/Textures/T_ky_dust01_4x4.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/FXVarietyPack/Textures/T_ky_dust01_4x4.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/FXVarietyPack/Textures/T_ky_dust_longStar.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/FXVarietyPack/Textures/T_ky_dust_longStar.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/FXVarietyPack/Textures/T_ky_flare25_4x4.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/FXVarietyPack/Textures/T_ky_flare3.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/FXVarietyPack/Textures/T_ky_flareVert.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/FXVarietyPack/Textures/T_ky_flareVertical02.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/FXVarietyPack/Textures/T_ky_flareVertical03_4x4.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/FXVarietyPack/Textures/T_ky_flare_a.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/FXVarietyPack/Textures/T_ky_lightning02_4x4.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/FXVarietyPack/Textures/T_ky_lightningDust01_4x4.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/FXVarietyPack/Textures/T_ky_magicCircle020.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/FXVarietyPack/Textures/T_ky_maskCircle.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/FXVarietyPack/Textures/T_ky_maskCircle.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/FXVarietyPack/Textures/T_ky_maskRGB3.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/FXVarietyPack/Textures/T_ky_maskRGB3.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/FXVarietyPack/Textures/T_ky_maskRGB5.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/FXVarietyPack/Textures/T_ky_noise.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/FXVarietyPack/Textures/T_ky_noise13_sml_nor.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/FXVarietyPack/Textures/T_ky_noise13_sml_nor.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/FXVarietyPack/Textures/T_ky_noise17.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/FXVarietyPack/Textures/T_ky_noise3.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/FXVarietyPack/Textures/T_ky_noise4.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/FXVarietyPack/Textures/T_ky_noise5.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/FXVarietyPack/Textures/T_ky_noise6.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/FXVarietyPack/Textures/T_ky_shine01_4x4.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/FXVarietyPack/Textures/T_ky_shockWave03_4x4.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/FXVarietyPack/Textures/T_ky_shockwave10_4x4.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/FXVarietyPack/Textures/T_ky_shockwave12_4x4.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/FXVarietyPack/Textures/T_ky_smoke03.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/FXVarietyPack/Textures/T_ky_smoke03.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/FXVarietyPack/Textures/T_ky_smoke1.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/FXVarietyPack/Textures/T_ky_smoke2.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/FXVarietyPack/Textures/T_ky_smoke_kai.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/FXVarietyPack/Textures/T_ky_stone02_2x2.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/FXVarietyPack/Textures/T_ky_vortex04_4x4.uasset" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/Entities/Mage/Animations/AM_MageHeal_Montage.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/Gameplay/AI/Tasks/BTTask_MageHeal.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.cupcake/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.cupcake/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Core/Character/AI/BP_EnemyMageCharacter.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Core/Character/AI/BP_EnemyMageCharacter.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Gameplay/AI/BehaviorTrees/BT_EnemyMage.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Gameplay/AI/BehaviorTrees/BT_EnemyMage.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Gameplay/AOE/BP_AOE_Base.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Gameplay/AOE/BP_AOE_Base.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Gameplay/AOE/BP_AOE_Heal.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Gameplay/AOE/BP_AOE_Heal.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Gameplay/AOE/BP_AOE_OverTimeBase.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Gameplay/AOE/BP_AOE_OverTimeBase.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Maps/ThirdPersonExampleMap.umap" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Maps/ThirdPersonExampleMap.umap" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/StarterContent/Architecture/Floor_400x400.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/StarterContent/Architecture/Floor_400x400.uasset" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -349,7 +219,7 @@
       <workItem from="1741015163421" duration="990000" />
       <workItem from="1741084251256" duration="4194000" />
       <workItem from="1741285388661" duration="680000" />
-      <workItem from="1741341148990" duration="1861000" />
+      <workItem from="1741341148990" duration="3710000" />
     </task>
     <servers />
   </component>
