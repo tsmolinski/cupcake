@@ -13,9 +13,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fb9e19a1-bf9b-4eae-bd2f-b4239b42f301" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Content/Gameplay/AOE/BP_AOE_Base.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Gameplay/AOE/BP_AOE_OverTimeBase.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/FXVarietyPack/Materials/MI_ky_aura011_4x4.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/FXVarietyPack/Materials/MI_ky_aura011_4x4_nonD.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/FXVarietyPack/Materials/MI_ky_auraWall02_two.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/FXVarietyPack/Materials/MI_ky_circle9_4x4c2.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/FXVarietyPack/Materials/MI_ky_primitive_dynB_nonD.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/FXVarietyPack/Materials/MI_ky_starDust_dis.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/FXVarietyPack/Materials/M_ky_dust01_4x4.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/FXVarietyPack/Materials/M_ky_empty.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/FXVarietyPack/Meshes/SM_ky_auraWall_distB_kai.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/FXVarietyPack/Meshes/SM_ky_cylinder_lowPoly_dist.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/FXVarietyPack/Meshes/SM_ky_cylinder_superLow.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/FXVarietyPack/Particles/P_ky_healAura.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.cupcake/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.cupcake/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Content/Maps/ThirdPersonExampleMap.umap" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Maps/ThirdPersonExampleMap.umap" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/StarterContent/Architecture/Floor_400x400.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/StarterContent/Architecture/Floor_400x400.uasset" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -211,6 +223,8 @@
       <workItem from="1740996674853" duration="1823000" />
       <workItem from="1741015163421" duration="990000" />
       <workItem from="1741084251256" duration="4194000" />
+      <workItem from="1741285388661" duration="680000" />
+      <workItem from="1741341148990" duration="1195000" />
     </task>
     <servers />
   </component>
