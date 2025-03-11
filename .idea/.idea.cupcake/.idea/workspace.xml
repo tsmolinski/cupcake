@@ -14,12 +14,10 @@
   <component name="ChangeListManager">
     <list default="true" id="fb9e19a1-bf9b-4eae-bd2f-b4239b42f301" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.cupcake/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.cupcake/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Core/Character/AI/BP_EnemyBaseCharacter.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Core/Character/AI/BP_EnemyBaseCharacter.uasset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Content/Core/Character/AI/BP_EnemyMeleeCharacter.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Core/Character/AI/BP_EnemyMeleeCharacter.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Gameplay/AI/BehaviorTrees/BT_EnemyMelee.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Gameplay/AI/BehaviorTrees/BT_EnemyMelee.uasset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Content/Mannequin/Animations/AM_JumpAttack_SwordShield_Montage.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Mannequin/Animations/AM_JumpAttack_SwordShield_Montage.uasset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Content/Mannequin/Animations/AM_SwordSlash_Montage.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Mannequin/Animations/AM_SwordSlash_Montage.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Mannequin/Animations/ThirdPerson_AnimBP.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Mannequin/Animations/ThirdPerson_AnimBP.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/StarterContent/Architecture/Floor_400x400.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/StarterContent/Architecture/Floor_400x400.uasset" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -218,6 +216,8 @@
       <workItem from="1741285388661" duration="680000" />
       <workItem from="1741341148990" duration="3782000" />
       <workItem from="1741426601916" duration="3865000" />
+      <workItem from="1741447102747" duration="709000" />
+      <workItem from="1741693181617" duration="596000" />
     </task>
     <servers />
   </component>
