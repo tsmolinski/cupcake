@@ -13,12 +13,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fb9e19a1-bf9b-4eae-bd2f-b4239b42f301" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Content/Gameplay/AI/Services/BTService_UpdateDistanceToTarget.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/Entities/Mage/Mesh/Sword_And_Shield_Attack.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/Mannequin/Animations/Sword_And_Shield_Attack.uasset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.cupcake/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.cupcake/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Core/Character/BP_CupcakePlayerCharacter.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Core/Character/BP_CupcakePlayerCharacter.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Gameplay/AI/BehaviorTrees/BB_EnemyBase.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Gameplay/AI/BehaviorTrees/BB_EnemyBase.uasset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Content/StarterContent/Architecture/Floor_400x400.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/StarterContent/Architecture/Floor_400x400.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -219,7 +217,8 @@
       <workItem from="1741426601916" duration="3865000" />
       <workItem from="1741447102747" duration="709000" />
       <workItem from="1741693181617" duration="2013000" />
-      <workItem from="1742893447771" duration="1328000" />
+      <workItem from="1742893447771" duration="1933000" />
+      <workItem from="1742980091237" duration="1329000" />
     </task>
     <servers />
   </component>
